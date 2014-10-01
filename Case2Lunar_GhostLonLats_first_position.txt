@@ -1,4 +1,4 @@
-ENVI ASCII Plot File [Tue Sep 23 00:43:46 2014]
+ENVI ASCII Plot File [Tue Sep 23 10:12:12 2014]
 Column 1: Band Number
 Column 2: TYPE:LON; Bias=-0.70905209; SCA:A; Detector=130; Lat=33.707381; Lon=-118.50485~~1
 Column 3: TYPE:LAT; Bias=-0.70905209; SCA:A; Detector=130; Lat=33.707381; Lon=-118.50485~~2
